@@ -7,5 +7,8 @@ layout: default
 
 > [memory](./memory.html)
 
+# linux用户
+
+> [user](../linux/user.html)
 
 
